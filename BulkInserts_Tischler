@@ -1,0 +1,2 @@
+1.) Die Performance wird negativ beeinflusst, da jedes StockRow einzeln eingefügt wird und nicht alles auf einmal mit einem bulk insert
+2.) Nein, es ist nicht möglich damit bulk inserts durchzuführen, da die bulk inserts einen anderen Mitgabewert brauchen
